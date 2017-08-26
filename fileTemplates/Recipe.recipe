@@ -1,0 +1,13 @@
+name: Cool Recipe
+source: http://www.google.com
+prepTime: 20 minutes
+cookTime: 20 minutes
+portions: 4
+caloriesPerPortion: 100
+hint: try it with foo!
+
+ingredients:
+  - (1 lb) things
+ 
+steps:
+  - make the things!

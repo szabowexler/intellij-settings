@@ -1,0 +1,72 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.10 (/usr/local/bin/python2.7) interpreter library">
+      <CLASSES>
+        <root url="jar:///usr/local/lib/python2.7/site-packages/hubspot_github-0.1.0-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/shelljob-0.4.4-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/PyYAML-3.11-py2.7-macosx-10.10-x86_64.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/uritemplate.py-0.3.0-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/github3.py-1.0.0a2-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pyasn1-0.1.9-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/ndg_httpsclient-0.4.1-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pyOpenSSL-16.0.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/cryptography-1.4-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/cffi-1.7.0-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/ipaddress-1.0.16-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/idna-2.1-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pycparser-2.14-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar:///usr/local/lib/python2.7/site-packages/hubspot_github-0.1.0-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/shelljob-0.4.4-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/PyYAML-3.11-py2.7-macosx-10.10-x86_64.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/uritemplate.py-0.3.0-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/github3.py-1.0.0a2-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pyasn1-0.1.9-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/ndg_httpsclient-0.4.1-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pyOpenSSL-16.0.0-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/cryptography-1.4-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/cffi-1.7.0-py2.7-macosx-10.10-x86_64.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/ipaddress-1.0.16-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/idna-2.1-py2.7.egg!/" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/pycparser-2.14-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.10_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///Library/Python/2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.2/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="stub [puppet module]">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
