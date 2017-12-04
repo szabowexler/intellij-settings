@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt i" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="meta alt y" />
     <keyboard-shortcut first-keystroke="ctrl meta y" />
