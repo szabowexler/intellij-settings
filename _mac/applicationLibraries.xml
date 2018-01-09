@@ -61,12 +61,5 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="stub [puppet module]">
-      <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
