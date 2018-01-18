@@ -48,7 +48,7 @@
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
       <property name="characterEncoding" value="utf8" />
-      <property name="characterSetResults" value="utf8" />
+      <property name="characterSetResults" value="null" />
       <property name="yearIsDateType" value="false" />
       <property name="authenticationPlugins" value="com.hubspot.mysql.percona.DialogPasswordPlugin" />
       <library>
