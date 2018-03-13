@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*/test</mask>
-      <mask>*/test/</mask>
       <mask>*/test/*</mask>
       <mask>*/test/*.</mask>
       <mask>*/test/*.jav</mask>
@@ -15,7 +14,6 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>@</mask>
@@ -36,6 +34,9 @@
       <mask>*</mask>
       <mask>*IF</mask>
       <mask>*IF*</mask>
+      <mask>xm</mask>
+      <mask>xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
