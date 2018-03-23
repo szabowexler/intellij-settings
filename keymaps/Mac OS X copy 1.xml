@@ -14,7 +14,11 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="MinimizeCurrentWindow" />
@@ -28,5 +32,7 @@
     <keyboard-shortcut first-keystroke="meta alt y" />
     <keyboard-shortcut first-keystroke="ctrl meta y" />
   </action>
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>
