@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".build-executable" type="PLAIN_TEXT" />
       <mapping pattern=".blazar-enabled" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="YAML" />
     </extensionMap>
   </component>
 </application>
