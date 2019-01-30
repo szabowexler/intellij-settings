@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DpmAnalyzer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -65,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DpmAnalyzer'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -87,6 +103,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerService'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MetricsIngestHollowFilterPipelineTest.itDoesWriteDataThroughAndReadIt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MetricsIngestHollowFilterPipelineTest.itDoesWriteDataThroughAndReadIt'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
