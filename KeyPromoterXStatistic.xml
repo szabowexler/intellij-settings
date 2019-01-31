@@ -102,7 +102,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerService'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MetricsIngestHollowFilterPipelineTest.itDoesWriteDataThroughAndReadIt'">
@@ -150,7 +150,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>47</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -230,7 +230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>30</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
     </option>
