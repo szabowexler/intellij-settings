@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'⌘5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DpmAnalyzer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -215,6 +223,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KeplerService'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SignalFxChartMetricEnumerator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SignalFxChartMetricEnumerator'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SignalFxDetectorMetricEnumerator'">
