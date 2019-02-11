@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven Projects">
+        <Item>
+          <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
+          <ShortCut>'⌘M'</ShortCut>
+          <Description>Maven Projects</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -342,7 +350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>139</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
     </option>
