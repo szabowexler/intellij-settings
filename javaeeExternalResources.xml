@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="https://api.hubapi.com/config-schema/config.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.2/extResources/7cdf5914_config.xsd" />
     <resource url="https://jhaber.github.io/config-current.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/afdb9f3a_config-current.xsd" />
   </component>
 </application>
