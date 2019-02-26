@@ -62,6 +62,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'KeplerJobsDaemon'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'KeplerJobsDaemon.main()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'KeplerJobsDaemon.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -185,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -214,7 +230,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -502,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>207</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
     </option>
