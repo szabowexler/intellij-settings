@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'HbaseContinuousScanWorker'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'HbaseContinuousScanWorker'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'HbaseMetricsObservationDaoTest.itDoesReadObservationsWritten'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -166,7 +174,7 @@
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -255,6 +263,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DpmAnalyzer'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'HbaseContinuousScanWorker'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'HbaseContinuousScanWorker'</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'HbaseMetricsObservationDaoTest.itDoesAThing'">
@@ -390,7 +406,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>173</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -481,6 +497,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'HbaseContinuousScanWorker'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'HbaseContinuousScanWorker'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'KeplerJobsDaemon'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -558,7 +582,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>218</Count>
+          <Count>226</Count>
         </Item>
       </Statistic>
     </option>
