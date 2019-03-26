@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'KeplerService'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MetricsIngesti....main()'">
@@ -127,6 +127,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'MetricsIngestionFilterRefreshingWorker'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MonitorablesResource'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'MonitorablesResource'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SignalFxChartMetricEnumerator'">
@@ -550,7 +558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KeplerService'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MetricsIngestionDaemon'">
