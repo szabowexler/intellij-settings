@@ -177,6 +177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesRespectSyste...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesRespectSyste...()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesWriteDataThr...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -361,6 +369,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MutingRuleManagerTest.itDoesRespectSystemMuteRule'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MutingRuleManagerTest.itDoesRespectSystemMuteRule'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -430,7 +446,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>187</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -577,6 +593,22 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MutingRuleManagerTest.itDoesRespectSystemMuteRule'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MutingRuleManagerTest.itDoesRespectSystemMuteRule'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SignalFxChartMetricEnumerator'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -622,7 +654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>232</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
     </option>
