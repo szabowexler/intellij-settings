@@ -441,6 +441,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MutingRuleManagerTest.itDoesMuteOverridingRulesIfOverridenRuleSeveralStepsUpTheOverrideTreeIsMutedWithMuteOverridesApplied'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MutingRuleManagerTest.itDoesMuteOverridingRulesIfOverridenRuleSeveralStepsUpTheOverrideTreeIsMutedWithMuteOverridesApplied'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'MutingRuleManagerTest.itDoesRespectSystemMuteRule'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
