@@ -201,6 +201,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesStoreAndFetc...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesStoreAndFetc...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesWriteDataThr...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>232</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -567,6 +575,14 @@
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AlertManagerTest.itDoesStoreAndFetchContext'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'AlertManagerTest.itDoesStoreAndFetchContext'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AlertViolationsDaoTest'">
@@ -822,7 +838,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>285</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
     </option>
