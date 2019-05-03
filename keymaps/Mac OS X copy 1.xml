@@ -21,6 +21,9 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="ImportModule">
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta alt o" />
