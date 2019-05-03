@@ -542,7 +542,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SlackAppendLogfetchQueryForErrorsToAlertThreadWorker'</Description>
-          <Count>1</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SlackOnCallHandoffNotifier'">
