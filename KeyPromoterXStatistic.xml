@@ -697,6 +697,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'com.hubspot.kepler in kepler-data'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'com.hubspot.kepler in kepler-data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Set Value...">
         <Item>
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
