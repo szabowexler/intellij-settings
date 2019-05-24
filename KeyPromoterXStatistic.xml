@@ -657,6 +657,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OpsReviewItemAssigneeDaoTest.itCanAddAndRemoveAssignees'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'OpsReviewItemAssigneeDaoTest.itCanAddAndRemoveAssignees'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'OpsReviewLabelManagerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
