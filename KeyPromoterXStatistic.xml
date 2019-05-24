@@ -665,6 +665,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OpsReviewItemDaoTest.itDoesCreateAndFetchItemsById'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'OpsReviewItemDaoTest.itDoesCreateAndFetchItemsById'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'OpsReviewLabelManagerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
