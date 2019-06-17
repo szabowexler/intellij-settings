@@ -361,6 +361,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile '...ableGrpcEdgeIF.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...ableGrpcEdgeIF.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile '...eIssueDigestIF.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
