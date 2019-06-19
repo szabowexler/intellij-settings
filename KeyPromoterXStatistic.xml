@@ -209,6 +209,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SlackService'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'SlackService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itCanCreateAndFetc...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -647,6 +655,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SlackOnCallHandoffNotifier'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SlackService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SlackService'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'metrics-ingest-hollow [com.hubspot.config:config-maven-plugin:0.1-SNAPSHOT:generate]'">
@@ -918,7 +934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KeplerService'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MetricsIngestionDaemon'">
@@ -1039,6 +1055,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SlackOnCallHandoffNotifier'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SlackService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SlackService'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
