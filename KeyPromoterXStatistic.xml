@@ -350,7 +350,7 @@
           <IdeaActionID>ImportModule</IdeaActionID>
           <ShortCut>'⌃⌘N'</ShortCut>
           <Description>Module from Existing Sources...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>354</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
     </option>
