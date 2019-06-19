@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'KeplerService'</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KeplerService.main()'">
@@ -337,6 +337,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Module from Existing Sources...">
+        <Item>
+          <IdeaActionID>ImportModule</IdeaActionID>
+          <ShortCut>'⌃⌘N'</ShortCut>
+          <Description>Module from Existing Sources...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -390,7 +398,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -470,7 +478,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerService'</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MetricsIngestHollowFilterPipelineTest.itDoesWriteDataThroughAndReadIt'">
@@ -670,7 +678,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>258</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -910,7 +918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KeplerService'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MetricsIngestionDaemon'">
@@ -1054,7 +1062,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>337</Count>
+          <Count>343</Count>
         </Item>
       </Statistic>
     </option>
