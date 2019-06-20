@@ -350,7 +350,7 @@
           <IdeaActionID>ImportModule</IdeaActionID>
           <ShortCut>'⌃⌘N'</ShortCut>
           <Description>Module from Existing Sources...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
