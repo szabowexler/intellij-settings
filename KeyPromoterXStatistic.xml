@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Kepler Archive Old'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'Kepler Archive Old'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'KeplerJobsDaemon'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -463,6 +471,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'HbaseMetricsObservationDaoTest.itDoesAThing'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Kepler Archive Old'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Kepler Archive Old'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KeplerJobsDaemon'">
