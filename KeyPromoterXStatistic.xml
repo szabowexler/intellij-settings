@@ -257,6 +257,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesReadElastics...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesReadElastics...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesReadObservat...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1174,7 +1182,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>371</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
     </option>
