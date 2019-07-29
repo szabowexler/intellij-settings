@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'KeplerService'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'KeplerService.main()'">
@@ -390,7 +390,7 @@
           <IdeaActionID>ImportModule</IdeaActionID>
           <ShortCut>'⌃⌘N'</ShortCut>
           <Description>Module from Existing Sources...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -534,7 +534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerService'</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MetricsIngestHollowFilterPipelineTest.itDoesWriteDataThroughAndReadIt'">
@@ -1182,7 +1182,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>374</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
     </option>
