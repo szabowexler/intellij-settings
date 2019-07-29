@@ -817,6 +817,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'HbaseMetricsStoreTest.itDoesReadElasticsearchIndexerMetricsWritten'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'HbaseMetricsStoreTest.itDoesReadElasticsearchIndexerMetricsWritten'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'KeplerJobsRunner'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
