@@ -446,7 +446,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -527,6 +527,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerJobsRunner'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'KeplerMetricLatencyTracker'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'KeplerMetricLatencyTracker'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KeplerService'">
@@ -831,6 +839,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'KeplerJobsRunner'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'KeplerMetricLatencyTracker'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'KeplerMetricLatencyTracker'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'KeplerService.main()'">
