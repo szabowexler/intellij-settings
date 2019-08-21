@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'KeplerMetricAvailabilitySloTracker'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'KeplerMetricAvailabilitySloTracker'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'KeplerService'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -446,7 +454,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Module</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -527,6 +535,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'KeplerJobsRunner'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'KeplerMetricAvailabilitySloTracker'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'KeplerMetricAvailabilitySloTracker'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KeplerMetricLatencyTracker'">
@@ -841,6 +857,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'KeplerMetricAvailabilitySloTracker'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'KeplerMetricAvailabilitySloTracker'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'KeplerMetricLatencyTracker'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1065,6 +1089,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'KeplerMetricAvailabilitySloTracker'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'KeplerMetricAvailabilitySloTracker'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'KeplerMetricLatencyTracker'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1230,7 +1262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>381</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
     </option>
