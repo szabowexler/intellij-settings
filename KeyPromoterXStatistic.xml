@@ -1006,7 +1006,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'com.hubspot.kepler.data.managers.slo''</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.hubspot.kepler.data.metrics.hbase.autoinclusion''">
