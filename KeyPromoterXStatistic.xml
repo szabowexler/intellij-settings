@@ -641,6 +641,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OnCallMentionListener'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OnCallMentionListener'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'OpsReviewItemDaoTest.itDoesCreateAndFetchItemsById'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -774,7 +782,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>285</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1278,7 +1286,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>395</Count>
+          <Count>401</Count>
         </Item>
       </Statistic>
     </option>
