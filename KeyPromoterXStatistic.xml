@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itCanSetAndReadBus...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itCanSetAndReadBus...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesDemoteCustom...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1006,7 +1014,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Tests in 'com.hubspot.kepler''</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'com.hubspot.kepler.data''">
@@ -1225,6 +1233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SettingsManagerTest.itCanSetAndReadBusinessHours'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SettingsManagerTest.itCanSetAndReadBusinessHours'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SignalFxChartMetricEnumerator'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1302,7 +1318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>401</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
     </option>
