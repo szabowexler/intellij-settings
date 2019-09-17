@@ -857,6 +857,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FeedbackResponseDaoTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'FeedbackResponseDaoTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'HbaseMetricObservationRowTest.itDoesDeserializeWhatItSerialized'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1070,6 +1078,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'com.hubspot.kepler.data.daos.opsreview in kepler-data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'itCanSaveAndReadFe...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'itCanSaveAndReadFe...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
