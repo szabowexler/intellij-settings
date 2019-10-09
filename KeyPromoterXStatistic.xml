@@ -865,6 +865,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CritsitManagerTest.itDoesQueryCritsitsByRange'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'CritsitManagerTest.itDoesQueryCritsitsByRange'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DataFlowEdgeManagerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
