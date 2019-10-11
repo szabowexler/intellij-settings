@@ -14,5 +14,6 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
+    <mask>KeplerDecomStateS*</mask>
   </component>
 </application>
