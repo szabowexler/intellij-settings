@@ -65,6 +65,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BatchTest.itDoesDeserializeBatches'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'BatchTest.itDoesDeserializeBatches'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DpmAnalyzer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -289,6 +297,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesDeserializeB...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesDeserializeB...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesReadElastics...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -495,6 +511,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'BackfillOpsReviewAlertAssociationOneoff'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BatchTest.itDoesDeserializeBatches'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'BatchTest.itDoesDeserializeBatches'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DpmAnalyzer'">
@@ -814,7 +838,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>321</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -854,6 +878,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'AlertViolationsManagerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BatchTest.itDoesDeserializeBatches'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'BatchTest.itDoesDeserializeBatches'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1145,6 +1177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BatchTest.itDoesDeserializeBatches'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'BatchTest.itDoesDeserializeBatches'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DpmAnalyzer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1286,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RuleOverrideManagerTest.itOverridesAlertsMatchingOverrideFilters'">
@@ -1382,7 +1422,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>426</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
     </option>
