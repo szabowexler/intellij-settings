@@ -745,6 +745,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SettingsManagerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1049,6 +1057,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SettingsManagerTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1337,6 +1353,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SchemaExtractorTest.itDoesExtractSeleniumTestCorrectly'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SettingsManagerTest.itCanSetAndReadBusinessHours'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1422,7 +1446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>437</Count>
+          <Count>439</Count>
         </Item>
       </Statistic>
     </option>
