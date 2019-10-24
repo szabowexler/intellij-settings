@@ -305,6 +305,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesGetDeployabl...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesGetDeployabl...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesReadElastics...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -1337,6 +1345,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RedisMetricsStoreTest.itDoesGetDeployableMetrics'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RedisMetricsStoreTest.itDoesGetDeployableMetrics'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1446,7 +1462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>439</Count>
+          <Count>440</Count>
         </Item>
       </Statistic>
     </option>
