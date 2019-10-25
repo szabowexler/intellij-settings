@@ -329,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'itDoesReadHadoopMe...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'itDoesReadHadoopMe...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'itDoesReadObservat...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -870,7 +878,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>431</Count>
+          <Count>432</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1478,7 +1486,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>447</Count>
+          <Count>449</Count>
         </Item>
       </Statistic>
     </option>
