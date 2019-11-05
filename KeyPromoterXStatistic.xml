@@ -745,6 +745,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'OutageDefinitionAnalysisOneoffJob'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'OutageDefinitionAnalysisOneoffJob'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'RedisMetricsStoreTest.itDoesReadSeleniumTestMetricsWritten'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1079,6 +1087,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'OpsReviewLabelManagerTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'OutageDefinitionAnalysisOneoffJob'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'OutageDefinitionAnalysisOneoffJob'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RedisHashSerdeTest'">
