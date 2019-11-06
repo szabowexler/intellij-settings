@@ -1401,6 +1401,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'OutageDefinitionAnalysisOneoffJob'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'OutageDefinitionAnalysisOneoffJob'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RedisMetricsStoreTest.itDoesGetDeployableMetrics'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
