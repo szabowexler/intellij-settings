@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'OutageDefinitionAnalysisOneoffJob'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'OutageDefinitionAnalysisOneoffJob'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RuleManager'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -758,7 +766,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OutageDefinitionAnalysisOneoffJob'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RedisMetricsStoreTest.itDoesReadSeleniumTestMetricsWritten'">
@@ -1406,7 +1414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OutageDefinitionAnalysisOneoffJob'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisMetricsStoreTest.itDoesGetDeployableMetrics'">
@@ -1526,7 +1534,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>450</Count>
+          <Count>451</Count>
         </Item>
       </Statistic>
     </option>
