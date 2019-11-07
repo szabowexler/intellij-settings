@@ -766,7 +766,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'OutageDefinitionAnalysisOneoffJob'</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RedisMetricsStoreTest.itDoesReadSeleniumTestMetricsWritten'">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'OutageDefinitionAnalysisOneoffJob'</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RedisMetricsStoreTest.itDoesGetDeployableMetrics'">
