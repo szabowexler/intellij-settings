@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="test_postmortem_6" type="PLAIN_TEXT" />
+      <mapping pattern=".build-yarn-cdh5" type="PLAIN_TEXT" />
       <mapping pattern=".build-executable" type="PLAIN_TEXT" />
       <mapping pattern=".blazar-enabled" type="PLAIN_TEXT" />
-      <mapping pattern=".build-yarn-cdh5" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
