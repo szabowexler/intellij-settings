@@ -1,11 +1,89 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="ch.qos.logback.classic.Logger" />
+    <EXCLUDED_PACKAGE NAME="com.amazonaws.annotation.Immutable" />
+    <EXCLUDED_PACKAGE NAME="com.cloudera.org.apache.http.annotation.Immutable" />
+    <EXCLUDED_PACKAGE NAME="com.cloudera.org.appache.http.annotation.Immutable" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged.com.google.common.base.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Joiner" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Maps" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.api.search.checkers.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.api.xmpp.SendResponse" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded.collect.Maps" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.sun.corba.se.spi.ior.Writeable" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.jersey.spi.inject" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport.java.util" />
+    <EXCLUDED_PACKAGE NAME="hidden" />
+    <EXCLUDED_PACKAGE NAME="hidden.hscurator" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
+    <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
+    <EXCLUDED_PACKAGE NAME="javax.annotation.concurrent.Immutable" />
+    <EXCLUDED_PACKAGE NAME="javax.inject" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.ir.annotations.Immutable" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="net.jcip.annotations.Immutable" />
+    <EXCLUDED_PACKAGE NAME="net.spy.memcached.compat.log.Logger" />
+    <EXCLUDED_PACKAGE NAME="net.spy.memcached.compat.log.LoggerFactory" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.id.uuid.UUID" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava.collect" />
+    <EXCLUDED_PACKAGE NAME="org.apache.htrace.fasterxml.jackson.databind.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.apache.http.annotation.Immutable" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.map.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Joiner" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.collect" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.inject" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.index.mapper.object.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.fest.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="org.immutables.value.internal.$processor$.meta.$GsonMirrors.Named" />
+    <EXCLUDED_PACKAGE NAME="org.immutables.value.internal.$processor$.meta.$ValueMirrors.Immutable" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.scribe.utils.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="scala.collection" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin.util.UserProfile" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
